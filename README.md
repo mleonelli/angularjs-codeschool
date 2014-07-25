@@ -1,7 +1,7 @@
 # Gem Store - A playground for CodeSchool AngularJS course
 
 This project is an application replicating the Gem Store AngularJS application from [Code School][1].
-[1]http://campus.codeschool.com/courses/shaping-up-with-angular-js
+
 
 ## Getting Started
 
@@ -25,5 +25,7 @@ cd angularjs-codeschool
 ```
 
 ### Run the application
-The application is based over angular-seed template project. Follow instruction on angular-seed page to run and test application.
+The application is based over angular-seed template project. Follow instruction on [angular-seed page][2] to run and test application.
+[1]: http://campus.codeschool.com/courses/shaping-up-with-angular-js
+[2]: https://github.com/angular/angular-seed
 
